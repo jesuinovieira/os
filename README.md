@@ -1,4 +1,4 @@
-# Operating Systems
+# Operating Systems Athenaeum
 
 Projects developed during the Operating Systems subject – sixth semester of 
 [Mechatronics Engineering](https://mecatronica.ufsc.br) course at Federal University 
